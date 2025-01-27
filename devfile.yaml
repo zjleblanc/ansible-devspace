@@ -1,7 +1,7 @@
 # cspell: disable=devspaces
 schemaVersion: 2.2.2
 metadata:
-  name: ansible-demo
+  name: zjleblanc-ansible-devspace
 components:
   - name: tooling-container
     container:
